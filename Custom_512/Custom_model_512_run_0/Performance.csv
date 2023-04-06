@@ -1,0 +1,2 @@
+Run,Model,Model overall accuracy,Model loss,Number of images,Correct predictions,Incorrect predictions,Correct hollow,Correct other,Incorrect hollow,Incorrect other,Correct (%),Incorrect (%),Average inference time per image (ms)
+0,Custom_512\Custom_model_512_run_0,0.9893617033958435,0.03778538107872009,470,465,5,180,285,0,5,98.94,1.06,2.8327651063829813
