@@ -32,7 +32,9 @@ To train the model, follow the steps below:
 The following are some sample results of the model on the testing data set:
 
 Model Predictions
+
 <img src = "Readme_images/predictions.png">
 
 Confusion Matrix
+
 <img src = "Readme_images/confusion_matrix.png">
