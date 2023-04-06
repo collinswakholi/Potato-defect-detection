@@ -11,7 +11,7 @@ Images from Data Set
 To train the model, follow the steps below:
 1. Intall the required packages by running `"pip install -r requirements.txt"` in the command line. The python version used for this project was 3.9.13.
 2. Unzip the dataset in the folder `"Data\tubers.zip"`.
-3. Train the classification models by running `"train_models.py "`. The models will be saved in the folder `"Models"`.  In summary, the script does the following:
+3. Train the classification models by running `"train_models.py " or `"trainining.ipynb"`. The models will be saved in the folder `"Models"`.  In summary, the script does the following:
 
     - Imports several Python libraries such as matplotlib, tensorflow, numpy, etc., and several custom functions from `'functions.py'` and `'preprocess_.py'`.
     
