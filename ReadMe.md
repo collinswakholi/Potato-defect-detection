@@ -2,7 +2,7 @@
 This is a project to detect potato defects (specifically hollow-heart defects) using deep learning. The project uses a dataset of about 1500 images of potatoes(both healthy and with defects) to train a deep learning classification model. The model is then used to detect defects in new images of potatoes.
 
 ## Dataset ##
-The dataset used for training the model is in the folder `"Data\tubers.zip"`. The dataset contains 1500 images of potatoes, each of which is labelled as either healthy or with a defect (see `"Data\A08241_internals.csv"`). The images are all of the same size (1900 x 1900 pixels) and are in the RGB format.
+The sample dataset used for training the model is in the folder `"Data\tubers.zip"`. The full [dataset](https://huggingface.co/datasets/CollinsW/PotatoHHData) contains ~ 1500 images of potatoes, each of which is labelled as either healthy or with a defect (see `"Data\A08241_internals.csv"`). The images are all of the same size (1900 x 1900 pixels) and are in the RGB format.
 
 Images from Data Set
 <img src = "Readme_images/dataset.png">
@@ -38,3 +38,4 @@ Model Predictions
 Confusion Matrix
 
 <img src = "Readme_images/confusion_matrix.png">
+
